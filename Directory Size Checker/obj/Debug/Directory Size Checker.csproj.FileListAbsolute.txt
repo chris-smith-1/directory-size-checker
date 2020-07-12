@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\bin\Debug\Directory Size Checker.exe.config
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\bin\Debug\Directory Size Checker.exe
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\bin\Debug\Directory Size Checker.pdb
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\obj\Debug\Directory Size Checker.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\obj\Debug\Directory_Size_Checker.Form1.resources
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\obj\Debug\Directory_Size_Checker.Properties.Resources.resources
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\obj\Debug\Directory Size Checker.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\obj\Debug\Directory Size Checker.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\obj\Debug\Directory Size Checker.exe
+C:\Users\Chris\source\repos\Directory Size Checker\Directory Size Checker\obj\Debug\Directory Size Checker.pdb
